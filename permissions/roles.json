@@ -1,0 +1,4 @@
+{
+    "admin": ["add user", "remove user", "add content"],
+    "editor": ["add content", "edit content"]
+}
